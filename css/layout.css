@@ -23,6 +23,7 @@
 }
 
 section.shadow#blue-shoes {
+  padding: 20px;
   float: left;
   width: 64.66%;
 }
@@ -31,5 +32,7 @@ section.shadow#dates {
   float: right;
   width: 31.33%;
 }
+
+section.shadow#
 
 /* Positioning Classes */
