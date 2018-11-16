@@ -20,35 +20,21 @@
 
 .clear {
   clear: both;
+  margin-bottom: 2%;
 }
 
-section.shadow#blue-shoes {
-  padding: 5px;
+[class*="col-"] {
   float: left;
-  width: 64.66%;
+  margin-left: 2%;
 }
 
-section.shadow#dates {
-  padding: 5px;
-  float: right;
-  width: 25.33%;
+[class*="col-"]:first-child {
+  margin-left: 0;
 }
-
-section.shadow#lady-bug-shoes {
-  padding: 5px;
-  float: left;
-  width: 25.33%;
+.col-1 {
+  width: 32%;
 }
-
-section.shadow#skate-shoes {
-  padding: 5px;
-  width: 25.33%;
+.col-2 {
+  width: 64%;
 }
-
-section.shadow#heel-3 {
-  padding: 5px;
-  float: right;
-  width: 31.33%;
-}
-
 /* Positioning Classes */
