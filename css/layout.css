@@ -26,8 +26,6 @@
 [class*="col-"] {
   float: left;
   margin-left: 2%;
-  margin-bottom: 2%;
-
 }
 
 [class*="col-"]:first-child {
