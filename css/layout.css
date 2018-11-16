@@ -18,8 +18,9 @@
   line-height: 0;
 }
 
-.clearfix {
+.clear {
   clear: both;
+  margin-bottom: 2%;
 }
 
 [class*="col-"] {
