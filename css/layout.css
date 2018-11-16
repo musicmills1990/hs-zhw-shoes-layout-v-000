@@ -26,7 +26,7 @@
 [class*="col-"] {
   float: left;
   margin-left: 2%;
-  margin-bottom: 2%
+  margin-bottom: 2%;
 }
 
 [class*="col-"]:first-child {
@@ -37,6 +37,6 @@
 
 }
 .col-2 {
-  width: 64%;
+  width: 63%;
 }
 /* Positioning Classes */
