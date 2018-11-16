@@ -18,7 +18,7 @@
   line-height: 0;
 }
 
-div.clear {
+.clear {
   clear: both;
   margin-bottom: 2%;
 }
