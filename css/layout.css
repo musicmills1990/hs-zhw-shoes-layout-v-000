@@ -29,7 +29,7 @@
 }
 
 [class*="col-"]:first-child {
-  margin-left: 1;
+  margin-left: 50%;
 }
 .col-1 {
   width: 31%;
