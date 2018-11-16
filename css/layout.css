@@ -27,4 +27,9 @@ section.shadow#blue-shoes {
   width: 66.66%;
 }
 
+section.shadow#dates {
+  float: right;
+  width: 33.33%;
+}
+
 /* Positioning Classes */
