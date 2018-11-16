@@ -29,6 +29,7 @@ section.shadow#blue-shoes {
 }
 
 section.shadow#dates {
+  padding: 20px;
   float: right;
   width: 31.33%;
 }
