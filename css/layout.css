@@ -22,6 +22,9 @@
   clear: both;
 }
 
+section.shadow#blue-shoes {
+  float: left;
+  width: 66.66%;
+}
+
 /* Positioning Classes */
-
-
