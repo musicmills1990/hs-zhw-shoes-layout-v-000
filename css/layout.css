@@ -40,4 +40,16 @@ section.shadow#lady-bug-shoes {
   width: 31.33%;
 }
 
+section.shadow#skate-shoes {
+  padding: 20px;
+  float: center;
+  width: 31.33%;
+}
+
+section.shadow#heel-3 {
+  padding: 20px;
+  float: left;
+  width: 31.33%;
+}
+
 /* Positioning Classes */
