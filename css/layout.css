@@ -24,7 +24,7 @@
 }
 
 [class*="col-"] {
-  float: RIGHT;
+  float: left;
   margin-left: 2%;
 }
 
